@@ -1,0 +1,18 @@
+Clustering
+
+Healthcare infrastructure
+Epidemiological factors
+Regulatory environment
+GDP growth rate
+healthcare expenditure
+income inequality
+political stability 
+vaccvination coverage and infrastructure
+
+Ebola
+virus control through contact tracing
+
+
+
+
+"Afghanistan", "Benin", "Burkina Faso", "Burundi", "Cambodia", "CAR", "Chad", "Comoros", "DRC", "Eritrea", "Ethiopia", "Gambia", "Guinea", "Guinea-Bissau", "Haiti", "Kyrgyzstan", "Lesotho", "Liberia", "Madagascar", "Malawi", "Mali", "Mauritania", "Mozambique", "Myanmar", "Nepal", "Niger", "North Korea", "Rwanda", "Senegal", "Sierra Leone", "Somalia", "South Sudan", "Sudan", "Syria", "Tajikistan", "Tanzania", "Togo", "Uganda", "Yemen", "Zambia", "Zimbabwe", "Bangladesh", "Cameroon", "Congo", "Côte d'Ivoire", "Djibouti", "Ghana", "Kenya", "Laos", "Nigeria", "Pakistan", "Papua New Guinea", "São Tomé", "Solomon Islands"
